@@ -1,4 +1,4 @@
-# Hola a todos :wave:, soy Mariano Martinez :begginer:
+# Hola a todos :wave:, soy Mariano Martinez.
 
 ### Desarrollador **Front-End**, Diseñador **UX-UI** y Estudiante del Bootcamp **Full-stack JavaScript Developer**, de **Undefined Academy**.:computer:
 
